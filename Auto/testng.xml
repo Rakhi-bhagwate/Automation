@@ -7,7 +7,7 @@
   <parameter name="browser" value="chrome"/>
     <classes>
 
-      <class name="Auto.Auto.Parallel"/>
+      <class name="Auto.Auto.Orangehrm"/>
     </classes>
   </test> <!-- Test -->
   
