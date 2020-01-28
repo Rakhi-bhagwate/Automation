@@ -8,6 +8,7 @@
     <classes>
 
       <class name="Auto.Auto.Orangehrm"/>
+      <class name="Auto.Auto.Parallel"/>
      <!--   <class name="Auto.Auto.Parallel"/>
         <class name="Auto.Auto.FilePro"/>
          <class name="Auto.Auto.PropFiles"/>
