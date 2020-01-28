@@ -8,16 +8,16 @@
     <classes>
 
       <class name="Auto.Auto.Orangehrm"/>
-       <class name="Auto.Auto.Parallel"/>
+     <!--   <class name="Auto.Auto.Parallel"/>
         <class name="Auto.Auto.FilePro"/>
          <class name="Auto.Auto.PropFiles"/>
-          <class name="Auto.Auto.Testng"/>
+          <class name="Auto.Auto.Testng"/> -->
          
     </classes>
   </test> <!-- Test -->
   
   
-   <test name="Test1">
+  <!--  <test name="Test1">
   <parameter name="browser" value="Firefox"/>
     <classes>
 
@@ -27,6 +27,6 @@
          <class name="Auto.Auto.PropFiles"/>
           <class name="Auto.Auto.Testng"/>
     </classes>
-  </test> <!-- Test -->
+  </test> Test -->
   
 </suite> <!-- Suite -->
